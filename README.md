@@ -1,10 +1,12 @@
 # MongoCB Chef Cookbook
 
 ## Description
-This repository is a chef cookbook for setting up a MongoDB instance.
+
+- This repository is a chef cookbook for setting up a MongoDB instance. 
+- The VM OS is ubuntu 16.04.
+
 
 ## Prerequistes
-You will need to install:
 To begin, download the following programs and install them:
 
 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)(5.2.6)
