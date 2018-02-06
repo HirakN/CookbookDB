@@ -22,7 +22,7 @@ To create a preconfigured VM:
 ```bash
 kitchen create
 ```
-This will create the VM that will host the web server and app.
+This will create the VM that will contain MongoDB.
 
 When you want to remove the VM:
 
