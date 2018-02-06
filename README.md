@@ -1,4 +1,4 @@
-# db
+# MongoCB Chef Cookbook
 
 ## Description
 This repository is a chef cookbook for setting up a MongoDB instance.
